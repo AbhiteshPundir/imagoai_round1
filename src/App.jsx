@@ -36,6 +36,8 @@ function App() {
 
   return (
     <div style={{ position: 'relative', margin: '50px auto' }}>
+      <a href='https://github.com/AbhiteshPundir/imagoai_round1'>Github Link</a>
+      <br /><br />
       <input
         onChange={handleInput}
         onFocus={() => setShowDropdown(true)}
